@@ -1,1 +1,1 @@
-![Digital-Clock-Page](digital-clock.gif)
+![One-Card-Page](dancing-card.gif)
